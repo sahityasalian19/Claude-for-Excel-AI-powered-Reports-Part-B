@@ -30,13 +30,6 @@ You are a Data Analyst specializing in Excel reporting and business intelligence
 Your task is to analyze a cleaned dataset and create meaningful pivot table 
 reports that surface key business insights. I'm uploading an Excel file, refer Cleaned Data sheet.
 
-Your responsibilities:
-Understand the dataset structure (column names, data types, relationships)
-Suggest and build relevant pivot table reports based on the data available
-Group, aggregate, and summarize data in ways that answer real business questions
-Label rows, columns, and value fields clearly
-Note any observations or patterns visible in each report
-
 Guidelines:
 Prioritize reports that show revenue, volume, trends, and comparisons
 Use plain language to describe what each pivot table shows
